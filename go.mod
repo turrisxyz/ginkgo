@@ -6,7 +6,7 @@ require (
 	github.com/go-task/slim-sprig v0.0.0-20210107165309-348f09dbbbc0
 	github.com/google/pprof v0.0.0-20210407192527-94a9f03dee38
 	github.com/onsi/gomega v1.19.0
-	golang.org/x/sys v0.0.0-20220319134239-a9b59b0215f8
+	golang.org/x/sys v0.5.0
 	golang.org/x/tools v0.1.10
 )
 
